@@ -239,7 +239,9 @@ Quando uma nova transação é enviada para o modelo, ele usa a função que apr
 </ol>
 
 ## Tecnologias usadas
-| Tecnologia | motivo |
-|----| ---- |
-| FastAPI | --- |
-| Python | --- |
+| Tecnologia | Motivo |
+|------------|--------|
+| <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="170"/> | Utilizado para a criação e documentação rápida da nossa API, permitindo desenvolvimento ágil e eficiente. |
+| <img src="https://camo.githubusercontent.com/967fcae13b3922eb5e13d0b98ab391095ffd0bec86ea6904cf4ce5d9b8fdc670/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e737667" alt="Python" width="70"/> | Linguagem de programação utilizada devido à sua simplicidade e vasto ecossistema de bibliotecas. |
+| <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="170"/> | Ferramenta poderosa para manipulação e análise de dados, essencial para o processamento de grandes volumes de informações. |
+| <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="170"/> | Biblioteca de machine learning que oferece diversas ferramentas para modelagem e avaliação de algoritmos. |
